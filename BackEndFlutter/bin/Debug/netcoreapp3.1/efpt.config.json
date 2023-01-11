@@ -1,0 +1,99 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "ProjectflutterContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models\/Data",
+   "ProjectRootNamespace": "BackEndFlutter",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Admin]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CategoryFood]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Customers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Details]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FoodOptions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Foods]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ImageFood]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OderDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Options]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OptionsDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Orders]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[OrdersDelivery]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Payments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[StatusDelivery]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[StatusOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tables]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "LAPTOP-QR5UBAMJ\\SQLEXPRESS.ProjectFlutter",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
